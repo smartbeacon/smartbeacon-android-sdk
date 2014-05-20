@@ -1,2 +1,11 @@
+eu.smartbeacon.sdk
+eu.smartbeacon.sdk.analytics.data.common
+eu.smartbeacon.sdk.analytics.data.models
+eu.smartbeacon.sdk.app.json
+eu.smartbeacon.sdk.app.utils
+eu.smartbeacon.sdk.calibrator
+eu.smartbeacon.sdk.connectivity
 eu.smartbeacon.sdk.core
+eu.smartbeacon.sdk.http
+eu.smartbeacon.sdk.platform
 eu.smartbeacon.sdk.utils
