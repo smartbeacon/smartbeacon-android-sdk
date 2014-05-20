@@ -15,14 +15,14 @@ Release notes
 --------------------
 
 1.2
-^^^
+===
 - Platform support. You can now use your SmartBeacon user account (using your api key) to track your users usage
 - New listeners added (for platform use): SBPlatformListener and SBPlatformActivityListener
 - Fix multiple dex files bug (android.support.v4)
 - Javadocs updated
 
 1.1
-^^^
+===
 - SBLocationManager.getInstance() need Context object as argument
 - Proximities management (IMMEDIATE, NEAR and FAR) 
 - Frequency.LOW is 5 seconds
