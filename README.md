@@ -1,4 +1,4 @@
-SmartBeacon Android SDK 1.2
+SmartBeacon Android SDK 1.3
 =======================
 
 Android framework for iBeacon technology usage.
@@ -14,12 +14,17 @@ SmartBeacon's SDK simplifies the use of iBeacon technology with SmartBeacon's ha
 Release notes
 --------------------
 
+1.3
+===
+- Server migration (for platform use)
+- Fix some bugs
+- Javadocs updated
+
 1.2
 ===
 - Platform support. You can now use your SmartBeacon user account (using your api key) to track your users usage
 - New listeners added (for platform use): SBPlatformListener and SBPlatformActivityListener
 - Fix multiple dex files bug (android.support.v4)
-- Javadocs updated
 
 1.1
 ===
